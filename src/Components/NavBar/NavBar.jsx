@@ -16,7 +16,7 @@ const ResponsiveAppBar = () => {
  
 
   return (
-    <AppBar position="static">
+    <AppBar position="static" className={style.AppBar}>
       <Container maxWidth="xl" className={style.Container}>
         <Toolbar disableGutters>
           <AdbIcon  />

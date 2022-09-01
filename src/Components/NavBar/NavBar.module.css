@@ -1,16 +1,18 @@
-.Container{
+.Container {
     display: flex !important;
-    justify-content: space-between ;
+    justify-content: space-between;
     flex-direction: row;
     max-width: none !important;
-    padding: 0!important;
+    padding: 0 !important;
 }
-.ListItem{
+
+.ListItem {
     width: 5% !important;
     max-width: none !important;
     padding: 0 !important;
 }
-.ListAvatar{
+
+.ListAvatar {
     width: 30% !important;
     max-width: none !important;
     padding: 0 !important;
@@ -18,6 +20,10 @@
     justify-content: center;
     align-items: center;
 }
+
+.AppBar {
+    background-image: linear-gradient(to bottom, #e2474b, #be3c6c, #8b407a, #554171, #2f3a56);
+}
+
 /* .Avatar{
 } */
-

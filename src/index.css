@@ -30,6 +30,7 @@ body {
   min-width: 320px;
   min-height: 100vh;
   padding: 0!important;
+  background-image: linear-gradient(to bottom, #2f3a56, #475d77, #638299, #83a8b9, #a8d0da);
 }
 
 h1 {
