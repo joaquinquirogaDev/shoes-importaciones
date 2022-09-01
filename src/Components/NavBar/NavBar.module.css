@@ -1,0 +1,23 @@
+.Container{
+    display: flex !important;
+    justify-content: space-between ;
+    flex-direction: row;
+    max-width: none !important;
+    padding: 0!important;
+}
+.ListItem{
+    width: 5% !important;
+    max-width: none !important;
+    padding: 0 !important;
+}
+.ListAvatar{
+    width: 30% !important;
+    max-width: none !important;
+    padding: 0 !important;
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+}
+/* .Avatar{
+} */
+
