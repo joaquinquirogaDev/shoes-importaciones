@@ -1,0 +1,35 @@
+
+.card{
+    width: 90%;
+    height: auto;
+    /* background-color: #EAEDED; */
+    border-radius: 20px;
+    border: 1px solid white;
+    
+}
+.info p{
+ color: black;
+}
+.imagen{
+    width: 100%;
+    height: 60%;
+    object-fit: cover;
+    aspect-ratio: 1.40/1;
+    border-radius: 20px;
+}
+.imagen img{
+    
+    width: 100%;
+    height: 100%;
+    border-radius: 20px 20px 0 0 ;
+    background-color: transparent !important;
+}
+.info{
+    width: 100%;
+    height: 20%;
+    background-color: transparent;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}

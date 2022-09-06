@@ -23,6 +23,7 @@
 
 .AppBar {
     background-image: linear-gradient(to bottom, #e2474b, #be3c6c, #8b407a, #554171, #2f3a56);
+    height: 100px !important;
 }
 
 /* .Avatar{
